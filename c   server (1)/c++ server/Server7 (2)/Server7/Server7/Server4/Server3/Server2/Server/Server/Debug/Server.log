@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\elliott bailey\downloads\server7 (2)\server7\server7\server4\server3\server2\server\server\source.cpp(165): warning C4551: function call missing argument list
+c:\users\elliott bailey\downloads\server7 (2)\server7\server7\server4\server3\server2\server\server\source.cpp(190): warning C4551: function call missing argument list
+c:\users\elliott bailey\downloads\server7 (2)\server7\server7\server4\server3\server2\server\server\source.cpp(212): warning C4551: function call missing argument list
+c:\users\elliott bailey\downloads\server7 (2)\server7\server7\server4\server3\server2\server\server\source.cpp(233): warning C4551: function call missing argument list
+c:\users\elliott bailey\downloads\server7 (2)\server7\server7\server4\server3\server2\server\server\source.cpp(257): warning C4101: 'recvbuf': unreferenced local variable
+c:\users\elliott bailey\downloads\server7 (2)\server7\server7\server4\server3\server2\server\server\source.cpp(264): warning C4101: 'max': unreferenced local variable
+c:\users\elliott bailey\downloads\server7 (2)\server7\server7\server4\server3\server2\server\server\source.cpp(265): warning C4101: 'min': unreferenced local variable
+c:\users\elliott bailey\downloads\server7 (2)\server7\server7\server4\server3\server2\server\server\source.cpp(252): warning C4101: 'iSendResult': unreferenced local variable
+c:\users\elliott bailey\downloads\server7 (2)\server7\server7\server4\server3\server2\server\server\source.cpp(238): warning C4715: 'callThread': not all control paths return a value
+  Server.vcxproj -> C:\Users\Elliott Bailey\Downloads\Server7 (2)\Server7\Server7\Server4\Server3\Server2\Server\Debug\Server.exe
+  Server.vcxproj -> C:\Users\Elliott Bailey\Downloads\Server7 (2)\Server7\Server7\Server4\Server3\Server2\Server\Debug\Server.pdb (Partial PDB)

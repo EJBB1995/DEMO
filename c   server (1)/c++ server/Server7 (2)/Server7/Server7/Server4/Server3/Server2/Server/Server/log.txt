@@ -1,0 +1,6 @@
+127.0.0.1 27015Client0joined at: Sun Apr 23 00:56:39 2017
+
+Total number of clients: 1
+Client1joined at: Sun Apr 23 00:56:39 2017
+
+Total number of clients: 2
